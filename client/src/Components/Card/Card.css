@@ -1,0 +1,18 @@
+.cardContainer{
+    border: solid black;
+    border-radius: 10px;
+    background-color: rgb(185, 195, 191);
+    box-shadow: 5px black;
+   }
+.cardImg{
+    border: solid 1px black;
+    padding: 3px 5px;
+    background-color: aliceblue;
+    
+    
+}
+.content{
+    text-decoration: text-decoration-line text-decoration-color text-decoration-style initial inherit;
+    font-size: medium;
+
+}

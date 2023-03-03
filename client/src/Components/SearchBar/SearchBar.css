@@ -1,0 +1,19 @@
+.formSearchBar{
+
+}
+.inputCountry{
+    padding: 10px;
+    border-radius: 15px;
+}
+.inputCountry:focus{
+    box-shadow: 0 0 10px white;
+}
+.inputButton{
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.inputButton:active{
+    transform: scale(0.95);
+    background-color: green;
+}

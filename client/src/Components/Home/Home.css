@@ -1,0 +1,24 @@
+.ContainerPadre {
+    height: 100%;
+    width: 100%;
+    background-color: none;
+  }
+  .navBar {
+    width: 100%;
+    height: 12vh;
+    background-color: cornsilk;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+  }
+  
+  .cards {
+    background-color: none;
+    width: 100%;
+    height: 100vh;
+    justify-content: space-around;
+    flex-direction: row;
+
+    
+  }
+  
